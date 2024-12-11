@@ -1,0 +1,6 @@
+[submodule "cpp-sdks"]
+	path = cpp-sdks
+	url = https://github.com/launchdarkly/cpp-sdks
+[submodule "vendor/launchdarkly"]
+	path = vendor/launchdarkly
+	url = https://github.com/launchdarkly/cpp-sdks
